@@ -5,7 +5,7 @@ int main() {
     printf("Enter the length of the rectangle: ");
     scanf("%f", &length);
     
-    printf("Enteer the breadth of the rectangle: ");
+    printf("Enter the breadth of the rectangle: ");
     scanf("%f", &breadth);
     //Calculate area and perimeter
     area = length * breadth;

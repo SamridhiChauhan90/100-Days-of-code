@@ -18,3 +18,4 @@ int main() {
 
     return 0;
 }
+//#define PI 3.14159 It tells the preprocessor to replace every occurrence of  PI  in the program with  3.14159  before compilation.
